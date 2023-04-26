@@ -15,3 +15,10 @@ For a Sample UNIX System: The code works as shown below:
 ![image](https://user-images.githubusercontent.com/102177900/234705165-75814d5f-b147-48c0-888a-1fd802336666.png)
 ![image](https://user-images.githubusercontent.com/102177900/234705342-b123c1d2-482d-43fb-9bb6-a4b24780dc98.png)
 ![image](https://user-images.githubusercontent.com/102177900/234705421-ceb20f08-e93f-4e71-b640-6b1dd05ef695.png)
+
+
+Contributors:
+Gannamaneni Amitha
+Geda Sonitha Sai
+Kollati Satwika
+Kukunuri Srinidhi Sathvika
